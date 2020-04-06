@@ -1,0 +1,14 @@
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\bin\Debug\netstandard2.0\ListviewPickerEx.deps.json
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\bin\Debug\netstandard2.0\ListviewPickerEx.dll
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\bin\Debug\netstandard2.0\ref\ListviewPickerEx.dll
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\bin\Debug\netstandard2.0\ListviewPickerEx.pdb
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\ListviewPickerEx.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\ListviewPickerEx.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\ListviewPickerEx.AssemblyInfo.cs
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\ListviewPickerEx.dll
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\ref\ListviewPickerEx.dll
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\ListviewPickerEx.pdb
+C:\Users\santosh\source\repos\ListviewPickerEx\ListviewPickerEx\ListviewPickerEx\obj\Debug\netstandard2.0\StatesListPage.xaml.g.cs

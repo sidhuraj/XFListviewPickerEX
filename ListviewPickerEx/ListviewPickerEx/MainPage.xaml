@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ListviewPickerEx.MainPage"
+             Title="vehicles List">
+
+    <StackLayout>
+
+        <Button x:Name="btnStatespage" Text="States Page"/>
+
+        <ListView x:Name="lbxVechiclesList" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding VechiclePhoto}" HeightRequest="70" WidthRequest="70"/>
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding VechicleName}" TextColor="Green" FontSize="Title"/>
+                                    <Label Text="{Binding VechicleColor}" TextColor="Green" FontSize="Default"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+            
+        </ListView>
+        
+    </StackLayout>
+
+</ContentPage>
